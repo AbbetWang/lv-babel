@@ -1,0 +1,22 @@
+{
+  "name": "lv-babel",
+  "version": "0.0.1",
+  "description": "node babel",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbetWang/lv-babel.git"
+  },
+  "keywords": [
+    "compatible"
+  ],
+  "author": "abbet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbbetWang/lv-babel/issues"
+  },
+  "homepage": "https://github.com/AbbetWang/lv-babel#readme"
+}
