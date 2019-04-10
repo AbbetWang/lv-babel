@@ -4,7 +4,8 @@
   "description": "node babel",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build":"babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
