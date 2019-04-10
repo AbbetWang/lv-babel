@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/AbbetWang/lv-babel/issues"
   },
-  "homepage": "https://github.com/AbbetWang/lv-babel#readme"
+  "homepage": "https://github.com/AbbetWang/lv-babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.3"
+  }
 }
